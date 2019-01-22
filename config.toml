@@ -309,6 +309,11 @@ enableGitInfo = false
   name = "Researchers"
   url = "#researchers"
   weight = 2
+  
+  [[menu.main]]
+  name = "Shiny apps"
+  url = "#shinyapps"
+  weight = 2
 
 
 #[[menu.main]]
