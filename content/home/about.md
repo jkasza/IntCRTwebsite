@@ -33,6 +33,6 @@ weight = 5
  
 +++
 
-# International Centre for Research in Cluster Randomised Trials
+# International Network for Innovative Cluster Randomised Trial Designs
 
-This is the website for the International Network for Research in Cluster Randomised Trials. This Network is a Network of Excellence funded by Monash University, and is composed of researchers in Australia, the USA, the UK, and Canada. You can find out more about our researchers and our research on this page. 
+This is the website for the International Network for Innovative Cluster Randomised Trial Designs. This Network is a Network of Excellence funded by Monash University, and is composed of researchers in Australia, the USA, the UK, and Canada. You can find out more about our researchers and our research on this page. 
