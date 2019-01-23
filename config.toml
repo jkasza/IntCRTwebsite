@@ -306,14 +306,25 @@ enableGitInfo = false
 #  weight = 2
   
   [[menu.main]]
-  name = "Researchers"
-  url = "#researchers"
+  name = "Aims"
+  url = "#aims"
   weight = 2
   
   [[menu.main]]
+  name = "Network Activities"
+  url = "#activities"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Researchers"
+  url = "#researchers"
+  weight = 3
+  
+ 
+  [[menu.main]]
   name = "Shiny apps"
   url = "#shinyapps"
-  weight = 2
+  weight = 4
 
 
 #[[menu.main]]
